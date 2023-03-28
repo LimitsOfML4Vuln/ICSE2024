@@ -133,7 +133,7 @@ GitHub: [https://github.com/wasiahmad/PLBART](https://github.com/wasiahmad/PLBAR
 
 ### Vulnerability Detection Datasets
 
-We use two Vulnerability Detection datasets. We provide the full datasets as part of this repository (see [datasets/README.md](https://github.com/LimitsOfML4Vuln/ICSE2024/blob/main/datasets/README.md)). These are the references for the original datasets.
+We use two external Vulnerability Detection datasets. We provide the full datasets as part of this repository (see [datasets/README.md](https://github.com/LimitsOfML4Vuln/ICSE2024/blob/main/datasets/README.md)). These are the references for the original datasets.
 
 #### CodeXGLUE/Devign:
 
@@ -160,6 +160,7 @@ numpages = {11}
 }
 ```
 GitHub: [https://github.com/epicosy/devign](https://github.com/epicosy/devign)
+
 GitHub: [https://github.com/microsoft/CodeXGLUE](https://github.com/microsoft/CodeXGLUE)
 
 #### VulDeePecker:
